@@ -1,11 +1,11 @@
 # ThemeTDesktop-huezo
 
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)]() 
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/huezo/ThemeTDesktop-huezo) 
 
 
-Theme Telegram Desktop ( Theme GNU/Linux ) 
+Theme Telegram Desktop ( Theme Telegram Material Design ) 
 
-Tema Telegram Desktop (Tema de GNU/Linux ) 
+Tema Telegram Desktop (Tema Telegram Material Design ) 
 
 LICENSE GPL v3 
 
