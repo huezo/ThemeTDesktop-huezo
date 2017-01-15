@@ -2,7 +2,6 @@
 
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/huezo/ThemeTDesktop-huezo) 
 
-
 Theme Telegram Desktop ( Theme Telegram Material Design ) 
 
 Tema Telegram Desktop (Tema Telegram Material Design ) 
