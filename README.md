@@ -29,7 +29,7 @@ LICENCIA GPL v3
 ## Theme
 ![Theme Telegram ][huezo_tema]
 
-## gitlab 
+
 
 
 
