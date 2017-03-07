@@ -35,13 +35,20 @@ LICENCIA GPL v3
 
 ## huezo Theme
 
+NEW 
+
 [huezo_tema1]: https://github.com/huezo/ThemeTDesktop-huezo/raw/master/huezo_.png
 ![Theme Telegram1 ][huezo_tema1]
 
+OLD
 
 [huezo_tema]: https://github.com/huezo/ThemeTDesktop-huezo/raw/master/demo.png
 ![Theme Telegram ][huezo_tema]
 
+
+# download (descargar)
+
+## [https://github.com/huezo/ThemeTDesktop-huezo/releases](https://github.com/huezo/ThemeTDesktop-huezo/releases)
 
 
 # .
@@ -49,4 +56,4 @@ LICENCIA GPL v3
 [https://huezo.github.io/ThemeTDesktop-huezo/](https://huezo.github.io/ThemeTDesktop-huezo/)
 
 
-[maker](https://github.com/danielpetrica/Telegram-Desktop-themes-maker)
+
