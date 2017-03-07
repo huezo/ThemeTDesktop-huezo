@@ -40,10 +40,7 @@ NEW
 [huezo_tema1]: https://github.com/huezo/ThemeTDesktop-huezo/raw/master/huezo_.png
 ![Theme Telegram1 ][huezo_tema1]
 
-OLD
 
-[huezo_tema]: https://github.com/huezo/ThemeTDesktop-huezo/raw/master/demo.png
-![Theme Telegram ][huezo_tema]
 
 
 # download (descargar)
