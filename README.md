@@ -53,4 +53,14 @@ NEW
 [https://huezo.github.io/ThemeTDesktop-huezo/](https://huezo.github.io/ThemeTDesktop-huezo/)
 
 
+# Telegram 
+Channel / Canal
+[https://t.me/ThemesTelegramTemas](https://t.me/ThemesTelegramTemas)
+
+user / usuario 
+[https://t.me/huezohuezo1990](https://t.me/huezohuezo1990)
+
+
+
+
 
